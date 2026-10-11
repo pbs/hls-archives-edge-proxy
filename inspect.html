@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HLS Playlist Archives: edge inspector</title>
+<link rel="stylesheet" href="demo/style.css">
+</head>
+<body>
+<header>
+  <h1>HLS Playlist Archives: edge inspector</h1>
+  <nav><a id="player" href="./">Back to the player</a></nav>
+</header>
+<p class="tagline">See how the edge turns a live stream into playlists and archives, one request at a time.</p>
+<ul>
+  <li><strong>The edge runs in this page.</strong> The same function that would run at the CDN reads the origin for real and writes every response you see.</li>
+  <li><strong>Click any URI in a response</strong> to request it, the way a player would. ▸ at the end of a row shows what the edge fetched to answer, and ↻ asks again.</li>
+  <li><strong>Watch the cache.</strong> Archives and tables are built once and then served from the cache. A refresh only reads the end of the live playlist.</li>
+  <li><strong>Have an edge of your own?</strong> Give its <code>.arch.</code> URL and the page reads it directly. You see what a player gets, but not what the edge fetched to make it.</li>
+</ul>
+
+<form id="form">
+  <div class="bar-form">
+    <input id="url" type="url" required spellcheck="false" aria-label="Live HLS URL" value="https://demo.unified-streaming.com/k8s/vod2live/stable/unified-learning.isml/.m3u8">
+    <button type="submit">Load</button>
+  </div>
+  <div class="options">
+    <label>Origin
+      <select id="origin">
+        <option value="auto" selected>Detect</option>
+        <option value="mediapackage">MediaPackage</option>
+        <option value="unified">Unified Origin</option>
+      </select>
+    </label>
+    <label>Window
+      <select id="window">
+        <option value="1h">1 hour</option>
+        <option value="2h" selected>2 hours</option>
+        <option value="6h">6 hours</option>
+      </select>
+    </label>
+  </div>
+</form>
+<p id="status" class="status"></p>
+
+<section class="panes" id="panes" hidden>
+  <div class="pane">
+    <h2>Requests</h2>
+    <table id="net"><thead><tr><th>request</th><th>status</th><th>cache</th><th class="num">bytes</th><th class="num">ms</th><th class="fetched num" title="What the edge fetched to answer">fetched</th></tr></thead><tbody></tbody></table>
+  </div>
+  <div class="pane">
+    <h2 id="viewerTitle">Response</h2>
+    <p id="summary" class="summary"></p>
+    <pre id="viewer"></pre>
+  </div>
+</section>
+
+<footer>
+  <p>Playlist Archives (<code>EXT-X-ARCHIVE</code>) is an <a href="https://mailarchive.ietf.org/arch/msg/hls-interest/6gJ3npq1b1bwYtpqIZWbaVvOIaE/">early proposal</a> for HLS. The edge function that runs in this page is from <a href="https://github.com/pbs/hls-archives-edge-proxy">hls-archives-edge-proxy</a>.</p>
+</footer>
+<script type="module" src="demo/inspect.mjs"></script>
+</body>
+</html>

@@ -1,0 +1,648 @@
+#EXTM3U
+#EXT-X-VERSION:5
+## Created with Unified Streaming Platform  (version=1.15.9-31871)
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-MEDIA-SEQUENCE:10721268
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-TARGETDURATION:4
+#USP-X-TIMESTAMP-MAP:MPEGTS=6527053160,LOCAL=2026-10-09T13:04:53.833300Z
+#EXT-X-PROGRAM-DATE-TIME:2026-10-09T13:04:53.833333Z
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721268.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721269.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721270.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721271.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721272.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721273.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721274.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721275.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721276.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721277.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721278.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721279.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721280.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721281.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721282.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721283.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721284.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721285.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721286.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721287.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721288.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721289.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721290.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721291.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721292.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721293.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721294.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721295.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721296.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721297.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721298.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721299.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721300.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721301.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721302.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721303.ts
+#EXTINF:1.5916, no desc
+unified-learning-audio_eng=128000-video=400000-10721304.ts
+## splice_insert()
+#EXT-X-DATERANGE:ID="0-1791551164",START-DATE="2026-10-09T13:06:04.545000Z",SCTE35-OUT=0xFC301B00000000000000FFF00A05000000007FDF000000000000077AAD10
+#EXT-X-CUE-OUT
+#EXT-X-PROGRAM-DATE-TIME:2026-10-09T13:06:04.545000Z
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721305.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721306.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721307.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721308.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721309.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721310.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721311.ts
+#EXTINF:1.6416, no desc
+unified-learning-audio_eng=128000-video=400000-10721312.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721313.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721314.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721315.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721316.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721317.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721318.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721319.ts
+#EXTINF:1.6433, no desc
+unified-learning-audio_eng=128000-video=400000-10721320.ts
+## splice_insert()
+#EXT-X-DATERANGE:ID="0-1791551164",START-DATE="2026-10-09T13:06:04.545000Z",END-DATE="2026-10-09T13:06:34.710000Z",DURATION=30.165,SCTE35-IN=0xFC301B00000000000000FFF00A05000000007F5F0000000000002AAA4375
+#EXT-X-CUE-IN
+#EXT-X-PROGRAM-DATE-TIME:2026-10-09T13:06:34.710000Z
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721321.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721322.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721323.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721324.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721325.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721326.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721327.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721328.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721329.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721330.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721331.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721332.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721333.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721334.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721335.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721336.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721337.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721338.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721339.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721340.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721341.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721342.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721343.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721344.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721345.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721346.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721347.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721348.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721349.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721350.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721351.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721352.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721353.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721354.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721355.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721356.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721357.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721358.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721359.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721360.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721361.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721362.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721363.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721364.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721365.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721366.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721367.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721368.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721369.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721370.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721371.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721372.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721373.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721374.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721375.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721376.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721377.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721378.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721379.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721380.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721381.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721382.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721383.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721384.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721385.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721386.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721387.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721388.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721389.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721390.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721391.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721392.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721393.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721394.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721395.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721396.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721397.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721398.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721399.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721400.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721401.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721402.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721403.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721404.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721405.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721406.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721407.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721408.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721409.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721410.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721411.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721412.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721413.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721414.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721415.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721416.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721417.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721418.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721419.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721420.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721421.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721422.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721423.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721424.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721425.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721426.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721427.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721428.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721429.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721430.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721431.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721432.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721433.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721434.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721435.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721436.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721437.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721438.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721439.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721440.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721441.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721442.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721443.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721444.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721445.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721446.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721447.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721448.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721449.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721450.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721451.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721452.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721453.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721454.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721455.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721456.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721457.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721458.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721459.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721460.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721461.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721462.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721463.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721464.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721465.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721466.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721467.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721468.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721469.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721470.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721471.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721472.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721473.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721474.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721475.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721476.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721477.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721478.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721479.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721480.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721481.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721482.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721483.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721484.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721485.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721486.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721487.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721488.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721489.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721490.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721491.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721492.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721493.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721494.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721495.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721496.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721497.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721498.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721499.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721500.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721501.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721502.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721503.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721504.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721505.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721506.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721507.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721508.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721509.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721510.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721511.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721512.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721513.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721514.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721515.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721516.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721517.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721518.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721519.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721520.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721521.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721522.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721523.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721524.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721525.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721526.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721527.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721528.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721529.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721530.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721531.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721532.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721533.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721534.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721535.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721536.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721537.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721538.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721539.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721540.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721541.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721542.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721543.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721544.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721545.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721546.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721547.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721548.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721549.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721550.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721551.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721552.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721553.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721554.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721555.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721556.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721557.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721558.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721559.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721560.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721561.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721562.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721563.ts
+#EXTINF:0.8533, no desc
+unified-learning-audio_eng=128000-video=400000-10721564.ts
+## splice_insert()
+#EXT-X-DATERANGE:ID="0-1791551662",START-DATE="2026-10-09T13:14:22.123333Z",SCTE35-OUT=0xFC301B00000000000000FFF00A05000000007FDF000000000000077AAD10
+#EXT-X-CUE-OUT
+#EXT-X-PROGRAM-DATE-TIME:2026-10-09T13:14:22.123333Z
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721565.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721566.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721567.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721568.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721569.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721570.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721571.ts
+#EXTINF:3.5616, no desc
+unified-learning-audio_eng=128000-video=400000-10721572.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721573.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721574.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721575.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721576.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721577.ts
+#EXTINF:1.92, no desc
+unified-learning-audio_eng=128000-video=400000-10721578.ts
+#EXTINF:1.6433, no desc
+unified-learning-audio_eng=128000-video=400000-10721579.ts
+## splice_insert()
+#EXT-X-DATERANGE:ID="0-1791551662",START-DATE="2026-10-09T13:14:22.123333Z",END-DATE="2026-10-09T13:14:52.288333Z",DURATION=30.165,SCTE35-IN=0xFC301B00000000000000FFF00A05000000007F5F0000000000002AAA4375
+#EXT-X-ENDLIST

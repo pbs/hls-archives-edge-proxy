@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HLS Playlist Archives</title>
+<meta name="description" content="Hours of rewind on a live HLS stream, with a live playlist that stays small. A demo of the EXT-X-ARCHIVE proposal with hls.js.">
+<link rel="stylesheet" href="demo/style.css">
+</head>
+<body>
+<header>
+  <h1>HLS Playlist Archives</h1>
+  <nav><a id="inspect" href="inspect.html">Inspect the edge</a></nav>
+</header>
+<p class="tagline">Hours of rewind on a live stream, with a live playlist that stays small.</p>
+<ul>
+  <li><strong>The bar under the player is the rewind window.</strong> Each block is an archive, drawn where hls.js has it on the timeline. The green block at the end is the live playlist.</li>
+  <li><strong>Seek back and watch them load.</strong> hls.js fetches an archive when playback needs it and lets go of the ones it no longer needs. The blue blocks are the ones it holds.</li>
+  <li><strong>Try your own stream.</strong> Any live HLS stream from MediaPackage or Unified Origin with a DVR window works, if it allows cross-origin requests. The edge that makes the archives runs in this page. This demo assumes that a URL with <code>.arch.</code> in it already comes from an edge of its own, so hls.js plays it directly.</li>
+</ul>
+
+<form id="form" class="bar-form">
+  <input id="url" type="url" required spellcheck="false" aria-label="Live HLS URL" value="https://demo.unified-streaming.com/k8s/vod2live/stable/unified-learning.isml/.m3u8">
+  <select id="window" aria-label="Rewind window">
+    <option value="1h">1 hour</option>
+    <option value="2h" selected>2 hours</option>
+    <option value="6h">6 hours</option>
+  </select>
+  <button type="submit">Play</button>
+</form>
+
+<video id="video" controls playsinline muted autoplay></video>
+
+<div class="archives">
+  <div id="bar" class="archive-bar" title="Click to seek"></div>
+  <div id="playhead" class="playhead"></div>
+</div>
+<p class="legend">
+  <span id="count"></span>
+  <span><i class="loaded"></i>loaded</span>
+  <span><i class="loading"></i>loading</span>
+  <span><i></i>not loaded</span>
+  <span><i class="live"></i>live playlist</span>
+</p>
+<p id="status" class="status"></p>
+
+<footer>
+  <p>Playlist Archives (<code>EXT-X-ARCHIVE</code>) is an <a href="https://mailarchive.ietf.org/arch/msg/hls-interest/6gJ3npq1b1bwYtpqIZWbaVvOIaE/">early proposal</a> for HLS. This page runs an unofficial implementation: the edge function from <a href="https://github.com/pbs/hls-archives-edge-proxy">hls-archives-edge-proxy</a> turns the stream's DVR window into archives, and a <a href="https://github.com/pbs/hls.js/tree/feature/playlist-archives">build of hls.js with archive support</a> plays them. In the console, <code>hls.latestLevelDetails.archives</code> shows what it has.</p>
+</footer>
+<script type="module" src="demo/player.mjs"></script>
+</body>
+</html>

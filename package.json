@@ -1,0 +1,14 @@
+{
+  "name": "hls-archives-edge-proxy",
+  "version": "0.2.0",
+  "description": "HLS Playlist Archives (EXT-X-ARCHIVE) for live streams from MediaPackage or Unified Origin, made at the edge, with a demo player.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node --test",
+    "check": "node scripts/check.mjs"
+  }
+}
